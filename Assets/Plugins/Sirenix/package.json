@@ -1,0 +1,22 @@
+{
+    "name": "thanhdv.sirenix.odininspector",
+    "version": "3.3.1.13",
+    "displayName": "Odin Inspector Educational",
+    "description": "Odin Inspector is a plugin for Unity that lets you enjoy a powerful and user-friendly workflow, making it easy to build powerful, advanced, and user-friendly editors for yourself and your entire team. This version is intended for educational purposes and includes Odin Inspector, Serializer, and Validator.",
+    "unity": "2022.3",
+    "keywords": [
+        "Inspector",
+        "Editor",
+        "Tools",
+        "Serialization",
+        "Validation",
+        "Attributes"
+    ],
+    "author": {
+        "name": "Sirenix",
+        "email": "mail@sirenix.net",
+        "url": "https://odininspector.com/"
+    },
+    "dependencies": {},
+    "changelogUrl": "https://odininspector.com/patch-notes"
+}
