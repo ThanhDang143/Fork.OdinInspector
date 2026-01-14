@@ -1,0 +1,25 @@
+{
+    "name": "thanhdv.sirenix.odin",
+    "version": "4.0.12",
+    "displayName": "ThanhDV's OdinInspector",
+    "description": "Odin Inspector is a plugin for Unity that lets you enjoy all the workflow benefits of having a powerful, customized and user-friendly editor, without ever having to write a single line of code.",
+    "unity": "2022.3",
+    "keywords": [
+        "OdinInspector",
+        "Inspector",
+        "Serializer",
+        "Validator"
+    ],
+    "author": {
+        "name": "ThanhDV",
+        "email": "vanthanh1998@gmail.com",
+        "url": "https://knowledge.thanhdv.com/"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ThanhDang143/Fork.OdinInspector.git"
+    },
+    "changelogUrl": "https://github.com/ThanhDang143/Fork.OdinInspector/blob/main/Assets/Packages/Sirenix/CHANGELOG.md",
+    "license": "Copyright © 2026 Sirenix ApS"
+}
